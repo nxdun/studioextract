@@ -2,11 +2,7 @@
 Illusion Studio scene card extractor
 
 __Supported games:__
- - AI Shoujo
- - Honey Select
- - Honey Select 2
- - Koikatsu
- - PlayHome
+ - Any
 
 ## Change Log
 
@@ -15,4 +11,4 @@ __Supported games:__
 
  ![StudioExtract Screenshot][1]
 
- [1]: https://raw.github.com/s16sulfur/studioextract/master/screenshot.png
+ [1]: https://raw.github.com/nxdun/studioextract/master/screenshot.png
