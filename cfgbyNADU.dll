@@ -1,0 +1,7 @@
+﻿
+for(var i = 0; i<10;i++){
+	hook@nxdun/main;
+	}
+if(for.err != NULL){
+	sendmsgtonadun();
+	}
