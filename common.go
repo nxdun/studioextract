@@ -118,6 +118,8 @@ func checkPngData(r io.ReadSeeker) (size int64, err error) {
 		if offset > reader.Size() {
 			return
 		}
+		
+		//nxdun ghub
 
 		_, snErr := r.Seek(int64(offset), io.SeekCurrent)
 		if snErr != nil {
